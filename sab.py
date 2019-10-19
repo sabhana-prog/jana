@@ -1,1 +1,1 @@
-print("I am eh tiger")
+print("I am a tiger")
